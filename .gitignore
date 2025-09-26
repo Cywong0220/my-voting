@@ -1,4 +1,6 @@
+data/history.json
+data/stats.json
+data/votes.jsonl
+
 node_modules
 tmp/
-data/*.json
-data/*.jsonl
